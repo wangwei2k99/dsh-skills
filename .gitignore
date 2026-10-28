@@ -1,0 +1,14 @@
+# 临时与系统文件
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 安装时可能产生的备份
+*.bak
